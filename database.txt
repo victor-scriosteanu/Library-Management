@@ -1,0 +1,30 @@
+1;Foundation;Isaac Asimov;1234
+2;Foundation;Isaac Asimov;0
+3;Foundation;Isaac Asimov;9592
+4;To Kill a Mockingbird;Harper Lee;0
+5;To Kill a Mockingbird;Harper Lee;4520
+6;To Kill a Mockingbird;Harper Lee;0
+7;The Shining;Stephen King;0
+8;The Shining;Stephen King;0
+9;The Shining;Stephen King;4299
+10;The Shining;Stephen King;9231
+11;Journey to the Center of the Earth;Jules Verne;1145
+12;Journey to the Center of the Earth;Jules Verne;0
+13;Journey to the Center of the Earth;Jules Verne;0
+14;Journey to the Center of the Earth;Jules Verne;3298
+15;Murder on the Orient Express;Agatha Christie;0
+16;Murder on the Orient Express;Agatha Christie;0
+17;Murder on the Orient Express;Agatha Christie;0
+18;Murder on the Orient Express;Agatha Christie;8721
+19;The A.B.C. Murders;Agatha Christie;6290
+20;The A.B.C. Murders;Agatha Christie;0
+21;The A.B.C. Murders;Agatha Christie;5992
+22;The A.B.C. Murders;Agatha Christie;2309
+23;The A.B.C. Murders;Agatha Christie;0
+24;Amatka;Karin Tidbeck;0
+25;Amatka;Karin Tidbeck;2809
+26;Amatka;Karin Tidbeck;3490
+27;Amatka;Karin Tidbeck;0
+28;The Children of Men;P.D. James;0
+29;The Children of Men;P.D. James;0
+30;The Children of Men;P.D. James;7001
